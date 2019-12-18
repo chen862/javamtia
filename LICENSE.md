@@ -9,7 +9,6 @@
 
 本代码可以从以下网址下载：
 
-
 https://github.com/Viscent/javamtia
 
 http://www.broadview.com.cn/31065
